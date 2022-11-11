@@ -54,7 +54,7 @@ Confettiful.prototype._renderConfetti = function() {
         }, 3000);
 
         this.containerEl.appendChild(confettiEl);
-    }, 25);
+    }, 60);
 
 
 };
